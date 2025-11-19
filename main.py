@@ -17,3 +17,4 @@ def selection_sort(arr):
             swaps += 1
 
     return arr, swaps, comparisons
+print("Hellow world!")
